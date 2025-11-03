@@ -88,7 +88,7 @@ These stats automatically update, showcasing my problem-solving skills and devel
   <a href="https://www.linkedin.com/in/ankur-sharma299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/ankur_sharma200" target="_blank">
+  <a href="https://leetcode.com/ankur_sharma299" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:ankusharmapan125@gmail.com" target="_blank">
