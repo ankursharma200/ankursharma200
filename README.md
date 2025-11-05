@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/158742476?u=07f9257464aa98eff9dc9f274e41174627d1a7a8&v=4" alt="ankursharma200's GitHub Profile Picture" width="200"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1PlXgyJFeOjX7HmqFriOjP5yqdVxRM8SCA&s" alt="ankursharma200's GitHub Profile Picture" width="200"/>
 </p>
 
 ## 👨‍💻 About Me
